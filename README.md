@@ -1,16 +1,32 @@
-# cos_mobile
+# Skin Analyzer
 
-A new Flutter project.
+Мобильное приложение для анализа состояния кожи и состава косметики с использованием искусственного интеллекта.
 
-## Getting Started
+## Особенности
 
-This project is a starting point for a Flutter application.
+- Анализ состояния кожи с помощью ИИ
+- Анализ состава косметических средств
+- История анализов и отслеживание изменений
+- Персональные рекомендации по уходу за кожей
+- Подбор подходящих косметических продуктов
 
-A few resources to get you started if this is your first Flutter project:
+## Требования
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter 3.0.0 или выше
+- Dart 2.17.0 или выше
+- Android 5.0+ (API уровень 21+) или iOS 11.0+
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Установка
+
+```bash
+# Клонировать репозиторий
+git clone https://github.com/username/skin_analyzer.git
+
+# Перейти в директорию проекта
+cd skin_analyzer
+
+# Установить зависимости
+flutter pub get
+
+# Запустить приложение
+flutter run

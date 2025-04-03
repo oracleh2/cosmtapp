@@ -1,4 +1,4 @@
-package com.example.cos_mobile
+package com.example.skin_analyzer
 
 import io.flutter.embedding.android.FlutterActivity
 
